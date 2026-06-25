@@ -131,8 +131,7 @@ I'm a 17-year-old developer who likes building things end-to-end — from the ba
 | Project | What it does | Stack |
 |---|---|---|
 | **[V0IDNETWORK](https://github.com/V0IDNETWORK)** | Independent research initiative studying how Internet protocols and network infrastructure work — analysis, write-ups, and open documentation | `Python` `Go` `Networking` |
-| *Your next pinned repo* | One-line description of the impact / problem it solves | `Stack here` |
-| *Your next pinned repo* | One-line description of the impact / problem it solves | `Stack here` |
+
 
 </div>
 
