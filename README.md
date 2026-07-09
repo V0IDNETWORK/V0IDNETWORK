@@ -41,13 +41,15 @@ focus:      Networking, Distributed Systems, Cybersecurity
 mindset:    "Build. Break. Learn. Repeat."
 ```
 
-I like software that has to survive contact with the real world — systems that stay
-up when the network doesn't cooperate, and code that fails loudly instead of
-quietly. Most of what I build lives somewhere between the backend and the wire:
-APIs, protocols, and the infrastructure connecting them.
+V0IDNETWORK is an ongoing, open research effort to document — rigorously and
+accurately — how the modern internet's circumvention and surveillance
+technologies actually work at the protocol level, in support of a more open
+and resilient internet.
 
-Right now I'm deep in backend engineering and computer networking, with
-cybersecurity and reverse engineering as the itch I keep scratching on the side.
+I like software that has to survive contact with the real world — systems
+that stay up when the network doesn't cooperate, and code that fails loudly
+instead of quietly. Most of what I build lives somewhere between the backend
+and the wire: APIs, protocols, and the infrastructure connecting them.
 
 </td>
 </tr>
@@ -63,7 +65,7 @@ cybersecurity and reverse engineering as the itch I keep scratching on the side.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,go,javascript,typescript&theme=dark" />
 
 <br/><br/>
 
@@ -88,8 +90,8 @@ cybersecurity and reverse engineering as the itch I keep scratching on the side.
 ```
 [■■■■■■■■■□□]  Backend Engineering        → designing resilient, well-modeled APIs
 [■■■■■■■□□□□]  Computer Networking        → BGP, DNS, routing, latency behavior
-[■■■■■□□□□□□]  Cybersecurity              → offense/defense fundamentals
-[■■■■□□□□□□□]  Reverse Engineering        → binary analysis, tooling
+[■■■■■■□□□□□]  Cybersecurity              → protocol-level circumvention research
+[■■■■■□□□□□□]  Reverse Engineering        → binary analysis, tooling
 [■■■□□□□□□□□]  Distributed Systems        → consistency, consensus, scale
 [■■□□□□□□□□□]  Go                         → moving beyond Python for systems code
 ```
@@ -102,7 +104,7 @@ cybersecurity and reverse engineering as the itch I keep scratching on the side.
 
 <div align="center">
 
-### ```📡 FEATURED PROJECTS```
+### ```📡 FLAGSHIP PROJECTS```
 
 </div>
 
@@ -110,11 +112,12 @@ cybersecurity and reverse engineering as the itch I keep scratching on the side.
 <tr>
 <td width="50%" valign="top">
 
-**🌐 V0IDNET Internet Radar**
+**🌐 [V0IDNET Internet Radar](https://github.com/V0IDNETWORK/V0IDNET-Internet-Radar)**
 
 Real-time internet infrastructure monitoring platform.
 
-`BGP` `DNS` `Latency` `Outage Detection`
+![lang](https://img.shields.io/github/languages/top/V0IDNETWORK/V0IDNET-Internet-Radar?style=flat-square&color=7aa2f7&labelColor=1a1b27)
+![license](https://img.shields.io/github/license/V0IDNETWORK/V0IDNET-Internet-Radar?style=flat-square&color=414868&labelColor=1a1b27)
 
 - Live BGP route monitoring
 - Global latency measurement
@@ -125,63 +128,82 @@ Real-time internet infrastructure monitoring platform.
 </td>
 <td width="50%" valign="top">
 
-**🔐 CipherGuard**
+**🕸 [Deep Network & Filtering Research](https://github.com/V0IDNETWORK/Deep-network-and-filtering-research)**
 
-Cross-platform password manager.
+Protocol-level documentation of internet filtering & circumvention.
 
-`Flutter` `Encryption` `Cross-Platform`
+![license](https://img.shields.io/github/license/V0IDNETWORK/Deep-network-and-filtering-research?style=flat-square&color=414868&labelColor=1a1b27)
+
+- DPI & filtering behavior analysis
+- Circumvention protocol notes
+- Focused on openness, not evasion tooling
+- Ongoing, evidence-driven documentation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔒 [flutter-vpn-client](https://github.com/V0IDNETWORK/flutter-vpn-client)**
+
+Cross-platform VPN client built with Flutter.
+
+![lang](https://img.shields.io/github/languages/top/V0IDNETWORK/flutter-vpn-client?style=flat-square&color=7aa2f7&labelColor=1a1b27)
+
+- Cross-platform Flutter UI
+- Protocol-agnostic client design
+- Built for real-world unreliable networks
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 [CipherGuard](https://github.com/V0IDNETWORK/CipherGuard)**
+
+Password manager focused on a clean, minimal vault experience.
+
+![lang](https://img.shields.io/github/languages/top/V0IDNETWORK/CipherGuard?style=flat-square&color=7aa2f7&labelColor=1a1b27)
+![license](https://img.shields.io/github/license/V0IDNETWORK/CipherGuard?style=flat-square&color=414868&labelColor=1a1b27)
 
 - Local-first encrypted vault
-- Cross-platform Flutter client
-- Zero-knowledge design principles
-- Clean, minimal UX
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🖤 NEXUS VOID 2089**
-
-Experimental futuristic portfolio concept.
-
-`Design` `Frontend` `Motion`
-
-- Cyberpunk-inspired interface
-- Motion-driven interactions
-- Concept-first, design-led build
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 Telegram Sales Bot**
-
-Automation platform for Telegram business workflows.
-
-`Python` `Automation` `Bots`
-
-- Order & customer flow automation
-- Modular command architecture
-- Built for real business use
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**🧠 Memory-Leaks**
-
-A living repository on Modern C++ — RAII, smart pointers, and memory management done right.
-
-`C++` `RAII` `Memory Management`
-
-- RAII patterns explained through code
-- Smart pointer deep-dives
-- Common leak patterns and fixes
+- Minimal, distraction-free UX
+- Built with security-first defaults
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### ```📦 OTHER REPOSITORIES```
+
+<br/>
+
+<table>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Memory-Leaks&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=CVE-2026-46331&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=voidnetwork-esp-provisioning&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Shutdown-Guard&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=voidlab&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=PDF-reader&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=powerful-and-fully-automated-Telegram-bot&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=V0IDNETWORK-portfolio-v2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Initial-commit-NEXUS-VOID-2089-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
+<td width="50%"></td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -237,6 +259,13 @@ A living repository on Modern C++ — RAII, smart pointers, and memory managemen
 <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
 <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7"/></a>
 <a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
+
+<br/>
+
+<a href="https://www.instagram.com/ilianothing"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=7aa2f7"/></a>
+<a href="https://youtube.com/@locailife"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=for-the-badge&logo=youtube&logoColor=7aa2f7"/></a>
+<a href="https://medium.com/@ilianothingg"><img src="https://img.shields.io/badge/Medium-1a1b27?style=for-the-badge&logo=medium&logoColor=7aa2f7"/></a>
+<a href="https://tryhackme.com/p/ilianothingg"><img src="https://img.shields.io/badge/TryHackMe-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=7aa2f7"/></a>
 
 </div>
 
