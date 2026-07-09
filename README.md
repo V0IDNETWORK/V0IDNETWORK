@@ -1,88 +1,143 @@
-# V0IDNETWORK
+# 👋 Hi, I'm Iliya (@V0IDNETWORK)
 
-> **17-year-old Developer from Iran**\
-> Learning by Building • Networking • Software • Open Source
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Software Developer • Networking Enthusiast • Cybersecurity
+Learner`</b>`{=html}`<br>`{=html} Building software, exploring networks,
+and learning how the Internet works.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=V0IDNETWORK&label=Profile%20Views&color=0e75b6&style=flat" />`{=html}
+```{=html}
+</p>
+```
 
-## About Me
+------------------------------------------------------------------------
 
-Hi! I'm Iliya (V0IDNETWORK), a 17-year-old developer from Iran who
-enjoys understanding how software, operating systems, and computer
-networks work.
+# 🚀 About Me
 
-Most of my time is spent building personal projects, exploring
-open-source technologies, and learning through experimentation.
+I'm **Iliya**, a 17-year-old developer from Iran and the creator of
+**V0IDNETWORK**.
 
-I'm particularly interested in networking, backend development, Flutter,
-cybersecurity, and Internet infrastructure. Through **V0IDNETWORK**, I
-document what I learn about Internet protocols and modern networking
-concepts.
+I enjoy building real-world software while learning how operating
+systems, computer networks, Internet infrastructure, and cybersecurity
+work behind the scenes.
 
-I don't consider myself an expert yet---I'm still learning every day. My
-goal is to become a software and security engineer by continuously
-building useful projects and contributing to open source.
+My philosophy is simple:
 
-## What I'm Learning
+> **Build. Break. Learn. Repeat.**
 
--   Backend Development
--   Flutter
--   Networking
+------------------------------------------------------------------------
+
+# 🌱 Currently Learning
+
+-   Backend Engineering
+-   Computer Networking
 -   Cybersecurity
--   Machine Learning
 -   Reverse Engineering
+-   Distributed Systems
+-   Machine Learning
+-   Go
 
-## Technologies I Use
+------------------------------------------------------------------------
 
-**Comfortable With**
+# 🛠 Tech Stack
+
+## Languages
 
 -   Python
--   C / C++
+-   C
+-   C++
+-   Dart
+-   Go (Learning)
+
+## Frameworks & Tools
+
 -   Flutter
+-   FastAPI
+-   Docker
 -   Git
 -   Linux
+-   PostgreSQL
+-   Redis
 
-**Currently Learning**
+------------------------------------------------------------------------
 
--   Go
--   Docker
--   FastAPI
--   Machine Learning
--   Low-level Networking
+# 📊 GitHub Statistics
 
-## Featured Projects
+> These update automatically.
 
-### V0IDNETWORK
+![GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight)
 
-An open research project documenting Internet protocols, networking
-concepts, and censorship technologies.
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight)
 
-### NEXUS VOID 2089
+![GitHub
+Streak](https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight)
 
-An experimental Flutter portfolio focused on interactive UI and creative
-user experiences.
+------------------------------------------------------------------------
 
-### CipherGuard
+# 📈 Contribution Graph
 
-A cross-platform password manager built with Flutter as a personal
-security project.
+![Activity
+Graph](https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night)
 
-### Telegram Sales Bot
+------------------------------------------------------------------------
 
-A Python project for automating product management and order processing.
+# 🏆 GitHub Trophies
 
-### Memory-Leaks
+![Trophies](https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&row=2&column=4)
 
-Notes and examples exploring modern C++ memory management and RAII.
+------------------------------------------------------------------------
 
-## Current Focus
+# 🚀 Featured Projects
 
--   Building better software
--   Understanding how the Internet works
--   Learning through real projects
--   Contributing to open source
+### 🌐 V0IDNET Internet Radar
 
-## Contact
+Real-time Internet infrastructure monitoring platform focused on BGP,
+DNS, latency, outages, and network visualization.
+
+### 🔐 CipherGuard
+
+Cross-platform password manager built with Flutter.
+
+### 🚀 NEXUS VOID 2089
+
+Experimental portfolio with immersive Flutter UI.
+
+### 🤖 Telegram Sales Bot
+
+Automation platform for Telegram business workflows.
+
+### 💾 Memory-Leaks
+
+Notes and examples about C++, RAII, and memory management.
+
+------------------------------------------------------------------------
+
+# 🎯 Goals
+
+-   Become a Software Engineer
+-   Become a Network & Security Engineer
+-   Contribute to Open Source
+-   Build production-grade infrastructure
+-   Understand the Internet from the protocol level
+
+------------------------------------------------------------------------
+
+# 🌍 Connect
 
 -   GitHub: https://github.com/V0IDNETWORK
 -   Website: https://voidnetwork.ir
 -   LinkedIn: https://linkedin.com/in/ilianothing
 -   Email: ilianothingg@gmail.com
+
+------------------------------------------------------------------------
+
+⭐ *Always learning. Always building.*
