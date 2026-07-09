@@ -1,165 +1,245 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1A1B27&height=240&section=header&text=V0IDNETWORK&fontSize=70&fontColor=7AA2F7&animation=fadeIn" alt="Header" width="100%"/>
-  
-  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Iliya;Building+the+future+of+networks" alt="Typing SVG" /></h1>
-  
-  <p>
-    <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/Website-voidnetwork.ir-7AA2F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
-    <img src="https://komarev.com/ghpvc/?username=V0IDNETWORK&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Views"/>
-    <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/api?username=V0IDNETWORK&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" width="85%" alt="Activity Graph"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=V0IDNETWORK&fontSize=62&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Networking%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
+<a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LINKEDIN-ilianothing-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
+<a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=Building+backend+systems+that+scale;Mapping+the+internet%2C+one+packet+at+a+time;Linux+%7C+Networking+%7C+Distributed+Systems;Currently+breaking+things+to+understand+them" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=V0IDNETWORK&label=PROFILE+VIEWS&color=414868&style=for-the-badge)
+
 </div>
 
----
-
-### About Me
-
-A 17-year-old software developer from Iran 🇮🇷 with a deep passion for systems that power the internet. I build backend infrastructure, experiment with networks, and explore the boundaries of cybersecurity and distributed systems. My work focuses on creating reliable, observable, and secure digital foundations.
-
-Currently balancing high school with serious software engineering — turning curiosity into production-grade tools and platforms.
-
----
-
-### Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,dart,flutter,fastapi,docker,git,linux,postgres,redis,kafka,rabbitmq,nginx&perline=9&theme=dark" alt="Tech Stack"/>
-</div>
-
-**Languages** — Python • C • C++ • Dart • Go (Learning)  
-**Backend** — FastAPI • Flask • REST/GraphQL  
-**Systems** — Linux • Docker • Networking • Distributed Systems  
-**Databases** — PostgreSQL • Redis • SQLite  
-**Frontend/Mobile** — Flutter  
-**Tools** — Git • Nginx • Wireshark • gdb • Valgrind  
-
----
-
-### Current Focus
+<br/>
 
 <div align="center">
 
-```text
-├── Internet Infrastructure & BGP Monitoring
-├── Low-level Systems Programming (C/C++)
-├── Distributed Systems Design
-├── Cybersecurity & Reverse Engineering
-├── Production-grade Backend Architecture
-└── Open Source Contributions
+### ```⚡ ABOUT ME```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%">
+
+```yaml
+name:       Iliya
+alias:      V0IDNETWORK
+based_in:   Iran 🇮🇷
+role:       Software Developer / Backend Engineer (learning)
+focus:      Networking, Distributed Systems, Cybersecurity
+mindset:    "Build. Break. Learn. Repeat."
 ```
 
-</div>
+I like software that has to survive contact with the real world — systems that stay
+up when the network doesn't cooperate, and code that fails loudly instead of
+quietly. Most of what I build lives somewhere between the backend and the wire:
+APIs, protocols, and the infrastructure connecting them.
 
-**2026 Roadmap**  
-• Master Go for high-performance networking services  
-• Contribute to major open-source networking projects  
-• Build advanced monitoring & observability platforms  
-• Deep dive into eBPF and kernel-level insights  
+Right now I'm deep in backend engineering and computer networking, with
+cybersecurity and reverse engineering as the itch I keep scratching on the side.
 
----
+</td>
+</tr>
+</table>
 
-### Featured Projects
-
-<div align="center">
-
-**🌐 V0IDNET Internet Radar**  
-*Real-time Internet infrastructure monitoring platform*  
-BGP analysis • DNS monitoring • Global latency tracking • Outage detection • Interactive network visualization  
-
-`Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Network Protocols`
-
-[View Repository →](https://github.com/V0IDNETWORK)
-
----
-
-**🔐 CipherGuard**  
-*Cross-platform password manager built with Flutter*  
-End-to-end encryption • Biometric authentication • Secure vault • Multi-device sync  
-
-`Flutter` `Dart` `Encryption` `Cross-Platform`
-
-[View Repository →](https://github.com/V0IDNETWORK)
-
----
-
-**🕹️ NEXUS VOID 2089**  
-*Experimental futuristic portfolio & digital experience*  
-Immersive UI • Cyberpunk aesthetics • Performance optimized  
-
-`HTML` `CSS` `JavaScript` `Three.js` (experimental)
-
-[View Repository →](https://github.com/V0IDNETWORK)
-
----
-
-**🤖 Telegram Sales Bot**  
-*Automation platform for Telegram business workflows*  
-Order management • Payment integration • Analytics dashboard  
-
-`Python` `Telebot` `PostgreSQL` `Redis`
-
-[View Repository →](https://github.com/V0IDNETWORK)
-
----
-
-**💾 Memory-Leaks**  
-*Educational repository on Modern C++ memory management*  
-RAII • Smart Pointers • Move Semantics • Performance optimization  
-
-`C++` `Modern C++` `Systems Programming`
-
-[View Repository →](https://github.com/V0IDNETWORK)
-
-</div>
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165" alt="Top Languages"/>
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=V0IDNETWORK&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
-</div>
-
----
-
-### Philosophy
+<br/>
 
 <div align="center">
 
-> **Build.**  
-> **Break.**  
-> **Learn.**  
+### ```🛠 TECH STACK```
+
+<br/>
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,dart,go&theme=dark" />
+
+<br/><br/>
+
+**Frameworks & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=flutter,fastapi,docker,git,linux,postgres,redis&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ```🧭 CURRENT FOCUS```
+
+</div>
+
+<table align="center">
+<tr>
+<td width="100%">
+
+```
+[■■■■■■■■■□□]  Backend Engineering        → designing resilient, well-modeled APIs
+[■■■■■■■□□□□]  Computer Networking        → BGP, DNS, routing, latency behavior
+[■■■■■□□□□□□]  Cybersecurity              → offense/defense fundamentals
+[■■■■□□□□□□□]  Reverse Engineering        → binary analysis, tooling
+[■■■□□□□□□□□]  Distributed Systems        → consistency, consensus, scale
+[■■□□□□□□□□□]  Go                         → moving beyond Python for systems code
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ```📡 FEATURED PROJECTS```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌐 V0IDNET Internet Radar**
+
+Real-time internet infrastructure monitoring platform.
+
+`BGP` `DNS` `Latency` `Outage Detection`
+
+- Live BGP route monitoring
+- Global latency measurement
+- DNS resolution tracking
+- Outage detection & alerting
+- Network topology visualization
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 CipherGuard**
+
+Cross-platform password manager.
+
+`Flutter` `Encryption` `Cross-Platform`
+
+- Local-first encrypted vault
+- Cross-platform Flutter client
+- Zero-knowledge design principles
+- Clean, minimal UX
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🖤 NEXUS VOID 2089**
+
+Experimental futuristic portfolio concept.
+
+`Design` `Frontend` `Motion`
+
+- Cyberpunk-inspired interface
+- Motion-driven interactions
+- Concept-first, design-led build
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 Telegram Sales Bot**
+
+Automation platform for Telegram business workflows.
+
+`Python` `Automation` `Bots`
+
+- Order & customer flow automation
+- Modular command architecture
+- Built for real business use
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🧠 Memory-Leaks**
+
+A living repository on Modern C++ — RAII, smart pointers, and memory management done right.
+
+`C++` `RAII` `Memory Management`
+
+- RAII patterns explained through code
+- Smart pointer deep-dives
+- Common leak patterns and fixes
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### ```📊 GITHUB ANALYTICS```
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" width="70%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ```💭 PHILOSOPHY```
+
+<br/>
+
+> **Build.**
+> **Break.**
+> **Learn.**
 > **Repeat.**
 
+<sub>Every system I understand deeply, I understand because I broke it first.</sub>
+
 </div>
 
----
-
-### Contact
+<br/>
 
 <div align="center">
-  
-  <a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/Email-ilianothingg@gmail.com-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/Website-voidnetwork.ir-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/></a>
-  <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LinkedIn-ilianothing-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
+
+### ```📫 CONTACT```
+
+<br/>
+
+<a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/></a>
+<a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
+<a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7"/></a>
+<a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
+
 </div>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1A1B27&height=100&section=footer&text=©%202026%20V0IDNETWORK%20•%20Crafted%20with%20precision%20and%20curiosity&fontSize=14&fontColor=565F89" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=150&section=footer" width="100%"/>
