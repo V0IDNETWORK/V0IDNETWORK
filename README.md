@@ -1,143 +1,225 @@
-# 👋 Hi, I'm Iliya (@V0IDNETWORK)
+<!-- ========================================= -->
+<!--              V0IDNETWORK                   -->
+<!-- ========================================= -->
 
-```{=html}
+<h1 align="center">Hi 👋 I'm Iliya</h1>
+
+<h3 align="center">
+Software Developer • Networking Enthusiast • Cybersecurity Learner
+</h3>
+
 <p align="center">
-```
-`<b>`{=html}Software Developer • Networking Enthusiast • Cybersecurity
-Learner`</b>`{=html}`<br>`{=html} Building software, exploring networks,
-and learning how the Internet works.
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Backend+Developer;Networking+Enthusiast;Cybersecurity+Learner;Linux+Enjoyer;Always+Learning."/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=V0IDNETWORK&label=Profile%20Views&color=0e75b6&style=flat" />`{=html}
-```{=html}
+<img src="https://komarev.com/ghpvc/?username=V0IDNETWORK&label=Profile+Views&color=3b82f6&style=flat"/>
+<img src="https://img.shields.io/github/followers/V0IDNETWORK?style=flat&color=3b82f6"/>
+<img src="https://img.shields.io/github/stars/V0IDNETWORK?affiliations=OWNER&style=flat&color=3b82f6"/>
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+```text
+Name        :: Iliya
+Age         :: 17
+Location    :: Iran 🇮🇷
+Organization:: V0IDNETWORK
 ```
 
-------------------------------------------------------------------------
+I'm a software developer passionate about building real-world applications while learning how computers, operating systems, networks, and the Internet work behind the scenes.
 
-# 🚀 About Me
+Currently my main interests are:
 
-I'm **Iliya**, a 17-year-old developer from Iran and the creator of
-**V0IDNETWORK**.
+- Backend Engineering
+- Computer Networking
+- Cybersecurity
+- Reverse Engineering
+- Distributed Systems
+- Linux
+- System Design
 
-I enjoy building real-world software while learning how operating
-systems, computer networks, Internet infrastructure, and cybersecurity
-work behind the scenes.
+I enjoy understanding **how things actually work** instead of simply using them.
 
-My philosophy is simple:
+---
 
-> **Build. Break. Learn. Repeat.**
+# ⚡ Tech Stack
 
-------------------------------------------------------------------------
+<p align="center">
 
-# 🌱 Currently Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,c,dart,go,flutter,fastapi,docker,git,linux,postgres,redis,vscode,github"/>
 
--   Backend Engineering
--   Computer Networking
--   Cybersecurity
--   Reverse Engineering
--   Distributed Systems
--   Machine Learning
--   Go
+</p>
 
-------------------------------------------------------------------------
+---
 
-# 🛠 Tech Stack
+# 📚 Currently Learning
 
-## Languages
+```text
+██████████████░░░░ Backend Engineering
 
--   Python
--   C
--   C++
--   Dart
--   Go (Learning)
+████████████░░░░░░ Computer Networking
 
-## Frameworks & Tools
+███████████░░░░░░░ Cybersecurity
 
--   Flutter
--   FastAPI
--   Docker
--   Git
--   Linux
--   PostgreSQL
--   Redis
+█████████░░░░░░░░░ Reverse Engineering
 
-------------------------------------------------------------------------
+████████░░░░░░░░░░ Distributed Systems
 
-# 📊 GitHub Statistics
+█████░░░░░░░░░░░░░ Machine Learning
 
-> These update automatically.
+████░░░░░░░░░░░░░░ Go Programming
+```
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight)
-
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-# 📈 Contribution Graph
-
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night)
-
-------------------------------------------------------------------------
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&row=2&column=4)
-
-------------------------------------------------------------------------
+---
 
 # 🚀 Featured Projects
 
-### 🌐 V0IDNET Internet Radar
+## 🌐 V0IDNET Internet Radar
 
-Real-time Internet infrastructure monitoring platform focused on BGP,
-DNS, latency, outages, and network visualization.
+Real-time Internet infrastructure monitoring platform.
 
-### 🔐 CipherGuard
+Features
 
-Cross-platform password manager built with Flutter.
+- BGP Monitoring
+- DNS Analytics
+- Global Latency
+- Outage Detection
+- Internet Visualization
+- Interactive Dashboard
 
-### 🚀 NEXUS VOID 2089
+---
 
-Experimental portfolio with immersive Flutter UI.
+## 🔐 CipherGuard
 
-### 🤖 Telegram Sales Bot
+Modern cross-platform password manager built with Flutter.
 
-Automation platform for Telegram business workflows.
+Features
 
-### 💾 Memory-Leaks
+- AES Encryption
+- Secure Vault
+- Offline First
+- Cross Platform
 
-Notes and examples about C++, RAII, and memory management.
+---
 
-------------------------------------------------------------------------
+## 🚀 NEXUS VOID 2089
 
-# 🎯 Goals
+Experimental futuristic portfolio built with Flutter.
 
--   Become a Software Engineer
--   Become a Network & Security Engineer
--   Contribute to Open Source
--   Build production-grade infrastructure
--   Understand the Internet from the protocol level
+- Glass UI
+- Custom Animations
+- Responsive Layout
+- Dark Theme
 
-------------------------------------------------------------------------
+---
+
+## 🤖 Telegram Sales Bot
+
+Automation platform for Telegram businesses.
+
+- Product Management
+- Payment Automation
+- Order Tracking
+- Admin Dashboard
+
+---
+
+## 💾 Memory-Leaks
+
+A collection of notes and examples covering
+
+- Modern C++
+- RAII
+- Smart Pointers
+- Memory Management
+- STL
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&column=4&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-grade backend systems
+- Master computer networking
+- Deep dive into cybersecurity
+- Learn distributed systems
+- Contribute to open source
+- Launch V0IDNET publicly
+- Become a professional Software Engineer
+
+---
+
+# 💭 Philosophy
+
+> Build.
+>
+> Break.
+>
+> Learn.
+>
+> Repeat.
+
+---
 
 # 🌍 Connect
 
--   GitHub: https://github.com/V0IDNETWORK
--   Website: https://voidnetwork.ir
--   LinkedIn: https://linkedin.com/in/ilianothing
--   Email: ilianothingg@gmail.com
+<p align="center">
 
-------------------------------------------------------------------------
+<a href="https://voidnetwork.ir">Website</a> •
+<a href="https://github.com/V0IDNETWORK">GitHub</a> •
+<a href="https://linkedin.com/in/ilianothing">LinkedIn</a> •
+<a href="mailto:ilianothingg@gmail.com">Email</a>
 
-⭐ *Always learning. Always building.*
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
+
+</p>
