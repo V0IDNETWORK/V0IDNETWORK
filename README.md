@@ -177,26 +177,51 @@ Password manager focused on a clean, minimal vault experience.
 
 ### ```📊 GITHUB ANALYTICS```
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" width="49%" />
+<p align="center">
 
-<br/>
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" width="70%" />
+<img width="49%" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
 
-<br/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" width="90%" />
 
-<br/><br/>
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
+<img width="70%"
+src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5" />
 
-</div>
+</p>
 
-<br/>
+
+<p align="center">
+
+<img width="90%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" />
+
+</p>
+
+
+<p align="center">
+
+<img width="90%"
+src="https://github-profile-trophy.vercel.app/?username=V0IDNETWORK&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/V0IDNETWORK/V0IDNETWORK/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
 
 <div align="center">
 
