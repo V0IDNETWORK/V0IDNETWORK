@@ -10,6 +10,9 @@
 <a href="https://pypi.org/user/ilianothing/">
 <img src="https://img.shields.io/badge/PyPI-Profile-blue?style=for-the-badge&logo=pypi"/>
 </a>
+<a href="https://gravatar.com/profound851a01b866">
+<img src="https://img.shields.io/badge/Gravatar-Profile-1a1b27?style=for-the-badge&logo=gravatar&logoColor=7aa2f7"/>
+</a>
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
@@ -244,6 +247,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&
 <a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
 <a href="https://pypi.org/user/ilianothing/">
 <img src="https://img.shields.io/badge/PyPI-Profile-blue?style=for-the-badge&logo=pypi"/>
+</a>
+<a href="https://gravatar.com/profound851a01b866">
+<img src="https://img.shields.io/badge/Gravatar-Profile-1a1b27?style=for-the-badge&logo=gravatar&logoColor=7aa2f7"/>
 </a>
 <br/>
 
