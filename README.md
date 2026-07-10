@@ -240,7 +240,9 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&
 <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
 <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/Website-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7"/></a>
 <a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
-
+<a href="https://pypi.org/user/ilianothing/">
+<img src="https://img.shields.io/badge/PyPI-Profile-blue?style=for-the-badge&logo=pypi"/>
+</a>
 <br/>
 
 <a href="https://www.instagram.com/ilianothing"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=7aa2f7"/></a>
