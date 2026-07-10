@@ -174,40 +174,6 @@ Password manager focused on a clean, minimal vault experience.
 
 <br/>
 
-<div align="center">
-
-### ```📦 OTHER REPOSITORIES```
-
-<br/>
-
-<table>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Memory-Leaks&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=CVE-2026-46331&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=voidnetwork-esp-provisioning&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Shutdown-Guard&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=voidlab&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=PDF-reader&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=powerful-and-fully-automated-Telegram-bot&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=V0IDNETWORK-portfolio-v2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=V0IDNETWORK&repo=Initial-commit-NEXUS-VOID-2089-demo&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%"/></td>
-<td width="50%"></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### ```📊 GITHUB ANALYTICS```
 
