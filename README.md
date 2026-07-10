@@ -7,7 +7,9 @@
 <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
 <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LINKEDIN-ilianothing-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
 <a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
-
+<a href="https://pypi.org/user/ilianothing/">
+<img src="https://img.shields.io/badge/PyPI-Profile-blue?style=for-the-badge&logo=pypi"/>
+</a>
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
