@@ -93,12 +93,13 @@ and the wire: APIs, protocols, and the infrastructure connecting them.
 <td width="100%">
 
 ```
-[■■■■■■■■■□□]  Backend Engineering        → designing resilient, well-modeled APIs
-[■■■■■■■□□□□]  Computer Networking        → BGP, DNS, routing, latency behavior
-[■■■■■■□□□□□]  Cybersecurity              → protocol-level circumvention research
-[■■■■■□□□□□□]  Reverse Engineering        → binary analysis, tooling
-[■■■□□□□□□□□]  Distributed Systems        → consistency, consensus, scale
-[■■□□□□□□□□□]  Go                         → moving beyond Python for systems code
+
+[■□□□□□□□□□] 1%  Backend Engineering        → designing resilient, well-modeled APIs
+[■□□□□□□□□□] 1%   Computer Networking        → BGP, DNS, routing, latency behavior
+[■□□□□□□□□□] 1%   Cybersecurity              → protocol-level circumvention research
+[■□□□□□□□□□] 1% Reverse Engineering        → binary analysis, tooling
+[■□□□□□□□□□] 1%  Distributed Systems        → consistency, consensus, scale
+[■□□□□□□□□□] 1%  Go                         → moving beyond Python for systems code
 ```
 
 </td>
