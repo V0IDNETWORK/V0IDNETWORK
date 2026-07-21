@@ -39,7 +39,7 @@ Nothing more.
 
 <td align="center" width="50%">
 
-<img src="https://github.com/ilianothing.png" width="220" style="border-radius:50%;" />
+<img src="./ilia.gif" width="220"/>
 
 ### Iliya
 
@@ -49,7 +49,7 @@ Nothing more.
 
 <td align="center" width="50%">
 
-<img src="https://github.com/EHSAN_GITHUB_USERNAME.png" width="220" style="border-radius:50%;" />
+<img src="./ehsan.jpg" width="220"/>
 
 ### Ehsan
 
