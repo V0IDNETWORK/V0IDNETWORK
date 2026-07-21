@@ -1,185 +1,158 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=260&section=header&text=V0IDNETWORK&fontSize=68&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=Research%20Collective%20%E2%80%A2%20Backend%20%E2%80%A2%20Networking%20%E2%80%A2%20Systems&descAlignY=62&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1b27,30:24283d,60:414868,100:7aa2f7&height=280&section=header&text=V0IDNETWORK&fontSize=72&fontColor=c0caf5&animation=twinkling&fontAlignY=42&desc=Independent%20Research%20Collective%20•%20Networking%20•%20Systems%20•%20Backend&descAlignY=68&descSize=21" width="100%"/>
   
-  <br/>
+  <br/><br/>
   
-  <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
-  <a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/GITHUB-ORGANIZATION-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b27&color=414868"/></a>
+  <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7&labelColor=1a1b27"/></a>
+  <a href="https://github.com/V0IDNETWORK"><img src="https://img.shields.io/badge/ORGANIZATION-V0IDNETWORK-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7"/></a>
   
   <br/><br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Built+by+Iliya+%26+Ehsan;Independent+Research+%26+Engineering;Deep+diving+into+networks+and+systems;Building+resilient+infrastructure+that+lasts;Open+research+in+the+public+interest" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=600&color=7AA2F7&center=true&vCenter=true&width=780&lines=Built+by+Iliya+%26+Ehsan;Research+Collective+in+Networking+%26+Systems;Engineering+the+Future+of+Resilient+Infrastructure;Exploring+the+Internet+at+Protocol+Level;Open+Source+%E2%80%A2+Deep+Research+%E2%80%A2+Real+Impact" alt="Typing SVG" />
   </a>
   
   <br/><br/>
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=V0IDNETWORK&label=PROFILE+VIEWS&color=414868&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=V0IDNETWORK&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge)
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>⚡ ABOUT V0IDNETWORK</h3>
+  <h2>⚡ V0IDNETWORK</h2>
+  <p><strong>Independent Research & Engineering Collective</strong></p>
 </div>
 
-<table align="center"><tr><td width="100%">
+---
 
-**V0IDNETWORK** is an independent research and engineering collective founded by **Iliya** and **Ehsan**.
-
-We build open-source software, conduct rigorous protocol-level networking research, and document how modern internet infrastructure, circumvention technologies, and distributed systems actually work in the real world.
-
-Our work sits at the intersection of backend engineering, low-level networking, systems programming, and open research — with a strong emphasis on resilience, clarity, and practical impact.
-
-</td></tr></table>
-
-<br/>
-
-<div align="center">
-  <h3>👥 THE TEAM</h3>
-</div>
+### 👥 THE TEAM
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/ilianothing.png" width="140" height="140" style="border-radius:50%;"/>
-      <h4>Iliya</h4>
-      <strong>Backend Software Engineer</strong><br>
-      <em>Distributed Systems • API Design • Open Source</em><br><br>
+      <img src="https://github.com/ilianothing.png" width="160" height="160" style="border-radius:50%; border:3px solid #7aa2f7;"/>
+      <h3>Iliya</h3>
+      <strong>Backend Software Engineer & Open Source Maintainer</strong><br>
+      <em>Distributed Systems • API Architecture • Resilient Backend</em><br><br>
       <a href="https://linkedin.com/in/ilianothing">LinkedIn</a> • 
       <a href="https://github.com/ilianothing">GitHub</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://avatars.githubusercontent.com/u/USERNAME_OF_EHSAN" width="140" height="140" style="border-radius:50%;"/> <!-- Replace USERNAME_OF_EHSAN with actual username -->
-      <h4>Ehsan</h4>
-      <strong>Networking & Systems Research Lead</strong><br>
-      <em>Linux • Infrastructure • Protocol Analysis • Security</em><br><br>
-      <!-- Add Ehsan's links here when available -->
+      <img src="https://avatars.githubusercontent.com/u/EHSAN_USERNAME" width="160" height="160" style="border-radius:50%; border:3px solid #7aa2f7;"/> <!-- ← username واقعی احسان رو بذار -->
+      <h3>Ehsan</h3>
+      <strong>Networking Research Lead & Systems Architect</strong><br>
+      <em>Linux • Protocol Analysis • Infrastructure • Security</em><br><br>
+      <!-- لینک‌های احسان رو اینجا اضافه کن -->
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<div align="center">
-  <h3>🛠 TECH STACK</h3>
-</div>
+### 🌍 OUR MISSION
+
+**V0IDNETWORK** توسط **Iliya** و **Ehsan** تأسیس شده است.  
+
+ما ترکیبی از **مهندسی عملی** و **تحقیق عمیق** هستیم. هدف ما ساخت ابزارها و مستندات باکیفیت، شفاف و در دسترس است که به درک بهتر اینترنت مدرن، شبکه‌ها و سیستم‌های توزیع‌شده کمک کند.
+
+**ما باور داریم**: بهترین راه درک سیستم‌ها، ساختن، شکستن و بازسازی آن‌هاست.
+
+---
+
+### 🛠 TECH STACK
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,rust,dart,javascript,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,c,cpp,rust,dart,javascript,typescript&theme=dark&perline=8" />
 
-**Frameworks & Infrastructure**  
-<img src="https://skillicons.dev/icons?i=fastapi,flutter,docker,kubernetes,git,linux,postgres,redis,nginx&theme=dark" />
+**Frameworks & Tools**  
+<img src="https://skillicons.dev/icons?i=fastapi,flutter,docker,kubernetes,linux,postgres,redis,nginx,git&theme=dark&perline=8" />
 
-<br/>
+---
 
-<div align="center">
-  <h3>🧭 RESEARCH & FOCUS AREAS</h3>
-</div>
+### 🧭 RESEARCH ROADMAP
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Backend & Distributed Systems</strong><br>
-      Resilient APIs, consensus, scaling, observability
-    </td>
-    <td width="50%" valign="top">
-      <strong>Computer Networking</strong><br>
-      BGP, DNS, routing, DPI analysis, latency, topology
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Cybersecurity Research</strong><br>
-      Protocol-level circumvention, filtering behavior
-    </td>
-    <td width="50%" valign="top">
-      <strong>Systems & Infrastructure</strong><br>
-      Linux internals, low-level tooling, reverse engineering
-    </td>
-  </tr>
-</table>
+- **Backend Engineering** — طراحی APIهای resilient و مقیاس‌پذیر
+- **Computer Networking** — BGP، DNS، Routing، DPI، Latency Analysis
+- **Distributed Systems** — Consistency، Consensus، Fault Tolerance
+- **Cybersecurity Research** — Protocol-level filtering & circumvention
+- **Systems Programming** — Linux internals، tooling، reverse engineering
+- **Open Research** — انتشار دانش و ابزارهای عملی
 
-<br/>
+---
 
-<div align="center">
-  <h3>📡 FLAGSHIP PROJECTS</h3>
-</div>
+### 📡 FEATURED PROJECTS
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <strong>🌐 <a href="https://github.com/V0IDNETWORK/V0IDNET-Internet-Radar">V0IDNET Internet Radar</a></strong><br>
-      Real-time internet infrastructure monitoring platform.<br>
-      <img src="https://img.shields.io/github/languages/top/V0IDNETWORK/V0IDNET-Internet-Radar?style=flat-square&color=7aa2f7&labelColor=1a1b27"/>
-      <img src="https://img.shields.io/github/license/V0IDNETWORK/V0IDNET-Internet-Radar?style=flat-square&color=414868&labelColor=1a1b27"/>
+      Real-time global internet infrastructure monitoring.
       <ul>
-        <li>Live BGP monitoring</li>
-        <li>Global latency & DNS tracking</li>
-        <li>Outage detection</li>
+        <li>Live BGP Route Monitoring</li>
+        <li>Global Latency & DNS Tracking</li>
+        <li>Outage Detection & Visualization</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <strong>🕸 <a href="https://github.com/V0IDNETWORK/Deep-network-and-filtering-research">Deep Network & Filtering Research</a></strong><br>
-      Protocol-level documentation of internet filtering and circumvention.<br>
-      <img src="https://img.shields.io/github/license/V0IDNETWORK/Deep-network-and-filtering-research?style=flat-square&color=414868&labelColor=1a1b27"/>
+      In-depth, protocol-level documentation of internet filtering and circumvention techniques.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>🔒 <a href="https://github.com/V0IDNETWORK/flutter-vpn-client">flutter-vpn-client</a></strong><br>
-      Cross-platform VPN client with protocol-agnostic design.
+      <strong>🔒 <a href="https://github.com/V0IDNETWORK/flutter-vpn-client">Flutter VPN Client</a></strong><br>
+      Cross-platform, protocol-agnostic VPN client built for unreliable networks.
     </td>
     <td width="50%" valign="top">
       <strong>🔐 <a href="https://github.com/V0IDNETWORK/CipherGuard">CipherGuard</a></strong><br>
-      Minimal, security-first local password manager.
+      Minimalist, security-first, local-first password manager.
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-### 📊 GITHUB ANALYTICS
+### 📊 GITHUB STATISTICS
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=V0IDNETWORK&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5" />
 </p>
 
-<br/>
+---
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/V0IDNETWORK/V0IDNETWORK/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/V0IDNETWORK/V0IDNETWORK/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
-<br/>
+---
 
 <div align="center">
-  <h3>💭 PHILOSOPHY</h3>
+  <h3>💭 OUR PHILOSOPHY</h3>
   
-  > **Build. Break. Learn. Repeat.**
+  > **Build. Break. Understand. Share.**
   
-  <sub>We believe deep understanding comes from building real systems, pushing them to their limits, and openly sharing what we discover.</sub>
+  <sub>Every deep insight comes from building real systems, pushing them to failure, learning from the breakage, and openly sharing the knowledge gained.</sub>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <h3>📫 CONTACT</h3>
+  <h3>📫 CONNECT WITH US</h3>
   
-  <a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=1a1b27"/></a>
-  <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7&labelColor=1a1b27"/></a>
-  <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LINKEDIN-ilianothing-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b27"/></a>
+  <a href="mailto:ilianothingg@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/></a>
+  <a href="https://voidnetwork.ir"><img src="https://img.shields.io/badge/WEBSITE-voidnetwork.ir-1a1b27?style=for-the-badge&logo=firefox&logoColor=7aa2f7"/></a>
+  <a href="https://linkedin.com/in/ilianothing"><img src="https://img.shields.io/badge/LINKEDIN-Iliya-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
   
   <br/><br/>
   <strong>Founders:</strong> Iliya • Ehsan
@@ -187,4 +160,4 @@ Our work sits at the intersection of backend engineering, low-level networking, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:7aa2f7,50:414868,100:1a1b27&height=140&section=footer&text=%E2%9D%A4%EF%B8%8F%20Open%20Research%20%E2%80%A2%20Public%20Knowledge&fontColor=1a1b27" width="100%"/>
