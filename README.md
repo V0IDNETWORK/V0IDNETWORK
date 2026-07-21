@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### ```⚡ ABOUT ME```
+### ```⚡ ABOUT US```
 
 </div>
 
@@ -38,7 +38,7 @@
 <td width="100%">
 
 ```yaml
-name:       Iliya&Ehsan
+name:       Iliya&Ehsan Team member
 alias:      V0IDNETWORK
 based_in:   Iran 🇮🇷
 role:       Software Developer / Backend Engineer (learning)
