@@ -143,19 +143,19 @@ Everything we build is shared here.
 
 ---
 
-# GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=V0IDNETWORK&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=V0IDNETWORK&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakNum=7aa2f7"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=V0IDNETWORK&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7"/>
 
 </p>
 
@@ -165,6 +165,21 @@ Everything we build is shared here.
 
 </p>
 
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V0IDNETWORK&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=V0IDNETWORK&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=V0IDNETWORK&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=V0IDNETWORK&theme=tokyonight"/>
+
+</p>
 ---
 
 # Contributions
