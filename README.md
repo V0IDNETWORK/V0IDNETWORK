@@ -47,15 +47,8 @@ Nothing more.
 
 </td>
 
-<td align="center" width="50%">
 
-<img src="./ehsan.jpg" width="220"/>
 
-### Ehsan
-
-**Programmer**
-
-</td>
 
 </tr>
 </table>
